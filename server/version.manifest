@@ -1,0 +1,7 @@
+{
+	"packageUrl" : "http://kunlun-game.oss-cn-beijing.aliyuncs.com/",
+	"remoteManifestUrl" : "http://kunlun-game.oss-cn-beijing.aliyuncs.com/project.manifest",
+	"remoteVersionUrl" : "http://kunlun-game.oss-cn-beijing.aliyuncs.com/version.manifest",
+	"version" : "1.0.1",
+	"engineVersion" : "3.10"
+}

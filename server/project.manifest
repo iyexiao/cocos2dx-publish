@@ -1,0 +1,14 @@
+{
+	"packageUrl" : "http://kunlun-game.oss-cn-beijing.aliyuncs.com/",
+	"remoteManifestUrl" : "http://kunlun-game.oss-cn-beijing.aliyuncs.com/project.manifest",
+	"remoteVersionUrl" : "http://kunlun-game.oss-cn-beijing.aliyuncs.com/version.manifest",
+	"version" : "1.0.1",
+	"engineVersion" : "3.10",
+	"assets" : {
+		"res/textures/pu_smoke_02_128x128.png":{"md5":"36d165cdeb7c8103d6c2f1a64104e5d9"},
+		"update.zip":{"md5":"36d165cdeb7c8103d6c2f1a64104e5d9","compressed":true}
+	},
+    
+    "searchPaths" : [
+    ]
+}
