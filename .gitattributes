@@ -1,1 +1,2 @@
+*.cpp linguist-language=lua
 *.lua linguist-language=lua
